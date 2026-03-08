@@ -11,7 +11,6 @@ import {
   Facebook as FacebookIcon,
   Clock,
   ArrowRight,
-  Heart,
   MessageCircle
 } from 'lucide-react';
 import { Button } from '@/components/ui/button';
