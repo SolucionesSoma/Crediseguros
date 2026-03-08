@@ -85,7 +85,7 @@ const Navbar = () => {
                 className="flex items-center gap-2 text-sm font-medium text-brand-primary hover:text-brand-secondary transition-colors"
               >
                 <Phone className="w-4 h-4" />
-                <span>+1 (555) 123-4567</span>
+                <span>+57 (318) 779-8503</span>
               </a>
               <Button
                 onClick={() => scrollToSection('#contact')}

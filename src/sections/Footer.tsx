@@ -65,8 +65,8 @@ const Footer = () => {
   ];
 
   const socialLinks = [
-    { icon: <Facebook className="w-5 h-5" />, href: 'https://facebook.com/crediseguros', label: 'Facebook' },
-    { icon: <Instagram className="w-5 h-5" />, href: 'https://instagram.com/crediseguros', label: 'Instagram' },
+    { icon: <Facebook className="w-5 h-5" />, href: 'https://www.facebook.com/seguros.gloriaduarte', label: 'Facebook' },
+    { icon: <Instagram className="w-5 h-5" />, href: 'https://www.instagram.com/credisegurosbucaramanga/', label: 'Instagram' },
     { icon: <Linkedin className="w-5 h-5" />, href: '#', label: 'LinkedIn' },
     { icon: <Twitter className="w-5 h-5" />, href: '#', label: 'Twitter' },
   ];
